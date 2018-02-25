@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScoreCounterBaseball</string>
+    <string name="team_nameA">Team #1</string>
+    <string name="teamA_score">0</string>
+    <string name="teamA_single">single hit +1</string>
+    <string name="teamA_pitchWin">pitch win +3</string>
+    <string name="teamA_homeRun">home run +4</string>
+    <string name="teamA_strikes">0</string>
+    <string name="teamA_strikesbutton">strikes</string>
+    <string name="team_nameB">Team #2</string>
+    <string name="teamB_score">0</string>
+    <string name="teamB_pitchWin">pitch win +3</string>
+    <string name="teamB_homeRun">home run +4</string>
+    <string name="teamB_single">single hit +1</string>
+    <string name="teamB_strikes">0</string>
+    <string name="teamB_strikesbutton">strikes</string>
+    <string name="reset">play again!</string>
+</resources>

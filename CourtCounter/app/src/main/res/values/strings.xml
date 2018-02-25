@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="teamA_Name">Team A</string>
+    <string name="teamA_Score">0</string>
+    <string name="teamA_Point1">free throw</string>
+    <string name="teamA_Point2">+2 points</string>
+    <string name="teamA_Point3">+3 points</string>
+    <string name="teamB_Name">Team B</string>
+    <string name="teamB_Score">0</string>
+    <string name="teamB_Point1">free throw</string>
+    <string name="teamB_Point2">+2 points</string>
+    <string name="teamB_Point3">+3 points</string>
+    <string name="reset">reset</string>
+</resources>
