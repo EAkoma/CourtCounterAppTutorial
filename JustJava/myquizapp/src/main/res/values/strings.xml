@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+    <string name="intro_home_screen">intro</string>
+    <string name="paragraph_home_screen">
+        insert paragraph insert paragraph insert paragraph
+        insert paragraph insert paragraph insert paragraph
+        insert paragraph insert paragraph insert paragraph
+        insert paragraph insert paragraph insert paragraph
+    </string>
+    <string name="rules_home_screen">how to</string>
+    <string name="play_game_home_screen">ready to learn</string>
+    <string name="lets_learn_screen">road map</string>
+    <string name="lesson1_button">lesson one</string>
+    <string name="lesson2_button">lesson two</string>
+    <string name="lesson3_button">lesson three</string>
+    <string name="back_to_home_screen">main menu</string>
+    <string name="lesson1_screen">introduction to computer science</string>
+    <string name="q1_label">question #1: </string>
+    <string name="q2_label">question #2: </string>
+    <string name="q3_label">question #3: </string>
+    <string name="q4_label">question #4: </string>
+    <string name="q5_label">question #5: </string>
+    <string name="r1">choice #1 </string>
+    <string name="r2">choice #2 </string>
+    <string name="r3">choice #3 </string>
+    <string name="r4">choice #4 </string>
+    <string name="r5">all of the above </string>
+    <string name="q1"></string>
+    <string name="q1_detail">What is computer programming?</string>
+    <string name="q2_detail">What is the difference between a variable and a constant?</string>
+    <string name="q3_detail">What is the software called that translates code into something meaningful the computer can understand?</string>
+    <string name="q4_detail">Beginner programmers should start with a development environment (yes or no).</string>
+    <string name="q5_detail">You need special software to write programs</string>
+    <string name="q6_detail">If you needed to execute some code repeatedly based on a certain condition, which of the following would you use?</string>
+    <string name="q7_detail">Before source code can be compiled, it has to be</string>
+    <string name="q8_detail">Ask user for a number, ask user for another number, multiply the two numbers, print result..What do you call this set of instructions?</string>
+    <string name="q9_detail">What is object-oriented programming?</string>
+    <string name="q10_detail">Which of the following is a software language?</string>
+    <string name="q11_detail">Which of the following is NOT a web language?</string>
+    <string name="q1c1">Convincing the computer to never freeze</string>
+    <string name="q1c2">Telling the computer what to do through a special set of instructions</string>
+    <string name="q1c3">Setting the alarm on a computer</string>
+    <string name="q1c4">Speeding up your computer</string>
+    <string name="q2c1">Visual Basic</string>
+    <string name="q2c2">HTML</string>
+    <string name="q2c3">C++</string>
+    <string name="q2c4">C</string>
+    <string name="q3c1">Converter</string>
+    <string name="q3c2">Transliterator</string>
+    <string name="q3c3">Compiler</string>
+    <string name="q3c4">Translator</string>
+    <string name="q4c1">yes</string>
+    <string name="q4c42">no</string>
+    <string name="q5c1">Variable</string>
+    <string name="q5c2">Compiler</string>
+    <string name="q5c3">Conditional</string>
+    <string name="q5c4">Loop</string>
+    <string name="score">score : 0</string>
+    <string name="quiz_number">question : 0</string>
+    <string name="submit">grade</string>
+
+</resources>
